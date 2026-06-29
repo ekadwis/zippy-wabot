@@ -1,17 +1,851 @@
 {
   "hubJid": "120363409477328978@g.us",
   "ownerJid": "91822223282255@lid",
-  "scanMode": true,
-  "seen": {},
-  "monitored": {},
+  "scanMode": false,
+  "seen": {
+    "120363022954757093@g.us": true,
+    "120363401826422033@g.us": true,
+    "120363403019164812@g.us": true,
+    "120363305235148668@g.us": true,
+    "120363344753873512@g.us": true,
+    "120363408939560829@g.us": true,
+    "120363303144208641@g.us": true
+  },
+  "monitored": {
+    "120363425006793098@g.us": {
+      "prefix": "solo",
+      "name": "SOLOENSIART",
+      "counter": 7
+    },
+    "120363425804255041@g.us": {
+      "prefix": "loom",
+      "name": "PAPERLOOM",
+      "counter": 1
+    },
+    "120363418851436805@g.us": {
+      "prefix": "kode",
+      "name": "KUNCI KODE",
+      "counter": 12
+    },
+    "120363423350724048@g.us": {
+      "prefix": "mpd",
+      "name": "MPEDIA HUB",
+      "counter": 8
+    },
+    "120363422181459653@g.us": {
+      "prefix": "siap",
+      "name": "88SIAPBANTU",
+      "counter": 4
+    },
+    "120363421169305388@g.us": {
+      "prefix": "pjk",
+      "name": "PASUKANJOKI",
+      "counter": 3
+    },
+    "120363423572732018@g.us": {
+      "prefix": "lnb",
+      "name": "LANBER",
+      "counter": 31
+    },
+    "120363407265338967@g.us": {
+      "prefix": "bb",
+      "name": "BB TEAM",
+      "counter": 28
+    },
+    "120363425817952134@g.us": {
+      "prefix": "inno",
+      "name": "INNOS TEAM",
+      "counter": 56
+    },
+    "120363423391134415@g.us": {
+      "prefix": "love",
+      "name": "LOVENALIES",
+      "counter": 30
+    },
+    "120363389860790727@g.us": {
+      "prefix": "daisy",
+      "name": "DAISY",
+      "counter": 10
+    },
+    "120363402283342188@g.us": {
+      "prefix": "mumet",
+      "name": "SOLUSI MUMET",
+      "counter": 52
+    },
+    "120363377497148907@g.us": {
+      "prefix": "poly",
+      "name": "POLYMATH",
+      "counter": 43
+    },
+    "120363371203476628@g.us": {
+      "prefix": "miel",
+      "name": "MIE",
+      "counter": 19
+    },
+    "120363408939560829@g.us": {
+      "prefix": "prc",
+      "name": "PRINCESS",
+      "counter": 121
+    },
+    "120363344753873512@g.us": {
+      "prefix": "thr",
+      "name": "THRONE",
+      "counter": 76
+    },
+    "120363303144208641@g.us": {
+      "prefix": "gv",
+      "name": "GRUP GV",
+      "counter": 72
+    },
+    "120363305235148668@g.us": {
+      "prefix": "fx",
+      "name": "TIM FX",
+      "counter": 93
+    },
+    "120363403019164812@g.us": {
+      "prefix": "ppr",
+      "name": "PAPER",
+      "counter": 117
+    }
+  },
   "pending": {
-    "testimonials0003": {
-      "jid": "120363424889587590@g.us",
-      "groupName": "Testimonial (unedit)",
-      "number": "91822223282255",
-      "message": "apah nih cv ya",
-      "time": "12/06/2026 15:47",
+    "fx0092": {
+      "jid": "120363305235148668@g.us",
+      "groupName": "TIM FX",
+      "number": "140621725564928",
+      "senderJid": "140621725564928@lid",
+      "message": "ada yang bisa bikin cv sama porto ga? yg bisa pc yaa",
+      "time": "29/06/2026 09:25",
+      "ts": 1782699904462,
       "keyword": "cv"
+    },
+    "miel0018": {
+      "jid": "120363371203476628@g.us",
+      "groupName": "MIE",
+      "number": "269165768237309",
+      "senderJid": "269165768237309@lid",
+      "message": "Joki surat sakit asli ada?",
+      "time": "29/06/2026 10:08",
+      "ts": 1782702493878,
+      "keyword": "surat sakit"
+    }
+  },
+  "bcNumbers": [],
+  "bcText": "⚽🏆 *PIALA DUNIA 2026 LIVE HD+* 🏆⚽\n\nNonton SEMUA pertandingan World Cup 2026 🇺🇸🇲🇽🇨🇦 dengan kualitas HD+ jernih tanpa buffer! Langsung dari HP, laptop, atau tablet — no ribet!\n\n🔥 *PROMO WORLD CUP 2026:*\n\n┌─────────────────────────┐\n│  🎟️  Satuan : *5rb/match*     │\n│  🏆  Full WC : *30rb s/d Final*  │\n└─────────────────────────┘\n\nHemat *70%* ambil paket full! 🔥\nDari fase grup sampai final, semua INCLUDED.\n\n✨ *Kenapa Pilih Kami?*\n✅ Kualitas setara platform resmi\n✅ Tanpa login — klik link langsung nonton\n✅ Anti limit, anti lemot\n✅ Support semua device (kecuali TV)\n✅ Bisa akses via aplikasi Android (lifetime!)\n\n📱 *Cara Order:*\nLangsung chat aja ketik *\"ORDER WC\"* atau *\"MAU LINK BOLA\"*\n\n⏰ Jangan sampai ketinggalan match seru!\nStok link terbatas per pertandingan.\n\n💡 _Kami menyediakan akses streaming berkualitas tinggi yang setara dengan platform resmi dari segi tampilan dan kenyamanan menonton._",
+  "bcImage": "/data/data/com.termux/files/home/notif-bot/promo.jpg",
+  "bcDelayMin": 20,
+  "bcDelayMax": 40,
+  "schedules": [],
+  "scheduleSeq": 1,
+  "stats": {
+    "log": [
+      {
+        "ts": 1782583200312,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782583204306,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782623598624,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "surat sakit"
+      },
+      {
+        "ts": 1782623620709,
+        "prefix": "ppr",
+        "name": "PAPER",
+        "keyword": "surat sakit"
+      },
+      {
+        "ts": 1782626093419,
+        "prefix": "gv",
+        "name": "GRUP GV",
+        "keyword": "coding"
+      },
+      {
+        "ts": 1782626098542,
+        "prefix": "gv",
+        "name": "GRUP GV",
+        "keyword": "coding"
+      },
+      {
+        "ts": 1782626857788,
+        "prefix": "ppr",
+        "name": "PAPER",
+        "keyword": "coding"
+      },
+      {
+        "ts": 1782626859351,
+        "prefix": "ppr",
+        "name": "PAPER",
+        "keyword": "coding"
+      },
+      {
+        "ts": 1782627824943,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "cv"
+      },
+      {
+        "ts": 1782629887773,
+        "prefix": "ppr",
+        "name": "PAPER",
+        "keyword": "php"
+      },
+      {
+        "ts": 1782630288474,
+        "prefix": "mumet",
+        "name": "SOLUSI MUMET",
+        "keyword": "surat tugas"
+      },
+      {
+        "ts": 1782631281202,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782633208448,
+        "prefix": "daisy",
+        "name": "DAISY",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782634425775,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "surat sakit"
+      },
+      {
+        "ts": 1782634426345,
+        "prefix": "prc",
+        "name": "PRINCESS",
+        "keyword": "surat sakit"
+      },
+      {
+        "ts": 1782635017017,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "diagram"
+      },
+      {
+        "ts": 1782635019477,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "diagram"
+      },
+      {
+        "ts": 1782635250849,
+        "prefix": "love",
+        "name": "LOVENALIES",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782636171662,
+        "prefix": "prc",
+        "name": "PRINCESS",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782638922176,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782638927530,
+        "prefix": "prc",
+        "name": "PRINCESS",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782642168166,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "surat sakit"
+      },
+      {
+        "ts": 1782649965638,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "surat sakit"
+      },
+      {
+        "ts": 1782650097118,
+        "prefix": "miel",
+        "name": "MIE",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650198389,
+        "prefix": "prc",
+        "name": "PRINCESS",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650216404,
+        "prefix": "ppr",
+        "name": "PAPER",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650255639,
+        "prefix": "bb",
+        "name": "BB TEAM",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650294593,
+        "prefix": "solo",
+        "name": "SOLOENSIART",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650302184,
+        "prefix": "lnb",
+        "name": "LANBER",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650342945,
+        "prefix": "inno",
+        "name": "INNOS TEAM",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782650973344,
+        "prefix": "daisy",
+        "name": "DAISY",
+        "keyword": "claude"
+      },
+      {
+        "ts": 1782650981220,
+        "prefix": "love",
+        "name": "LOVENALIES",
+        "keyword": "claude"
+      },
+      {
+        "ts": 1782650983572,
+        "prefix": "miel",
+        "name": "MIE",
+        "keyword": "claude"
+      },
+      {
+        "ts": 1782652109789,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "website"
+      },
+      {
+        "ts": 1782652343306,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "website"
+      },
+      {
+        "ts": 1782652644592,
+        "prefix": "inno",
+        "name": "INNOS TEAM",
+        "keyword": "diagram"
+      },
+      {
+        "ts": 1782652646422,
+        "prefix": "prc",
+        "name": "PRINCESS",
+        "keyword": "diagram"
+      },
+      {
+        "ts": 1782652648001,
+        "prefix": "gv",
+        "name": "GRUP GV",
+        "keyword": "diagram"
+      },
+      {
+        "ts": 1782652760297,
+        "prefix": "mumet",
+        "name": "SOLUSI MUMET",
+        "keyword": "diagram"
+      },
+      {
+        "ts": 1782662512824,
+        "prefix": "love",
+        "name": "LOVENALIES",
+        "keyword": "quillbot"
+      },
+      {
+        "ts": 1782664172968,
+        "prefix": "thr",
+        "name": "THRONE",
+        "keyword": "cv"
+      },
+      {
+        "ts": 1782664621728,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "excel"
+      },
+      {
+        "ts": 1782667272981,
+        "prefix": "prc",
+        "name": "PRINCESS",
+        "keyword": "cv"
+      },
+      {
+        "ts": 1782699904462,
+        "prefix": "fx",
+        "name": "TIM FX",
+        "keyword": "cv"
+      },
+      {
+        "ts": 1782702493878,
+        "prefix": "miel",
+        "name": "MIE",
+        "keyword": "surat sakit"
+      }
+    ],
+    "daily": {
+      "2026-06-13": {
+        "total": 46,
+        "kw": {
+          "excel": 31,
+          "cv": 4,
+          "claude": 6,
+          "surat sakit": 1,
+          "website": 3,
+          "surat tugas": 1
+        },
+        "grp": {
+          "THRONE": 4,
+          "MIE": 3,
+          "MPEDIA HUB": 2,
+          "PRINCESS": 7,
+          "BB TEAM": 3,
+          "LANBER": 2,
+          "PAPER": 8,
+          "TIM FX": 7,
+          "INNOS TEAM": 4,
+          "POLYMATH": 3,
+          "GRUP GV": 2,
+          "LOVENALIES": 1
+        }
+      },
+      "2026-06-14": {
+        "total": 56,
+        "kw": {
+          "coding": 1,
+          "claude": 12,
+          "figma": 2,
+          "excel": 26,
+          "surat sakit": 4,
+          "spreadsheet": 5,
+          "cv": 5,
+          "website": 1
+        },
+        "grp": {
+          "PAPER": 6,
+          "SOLUSI MUMET": 2,
+          "TIM FX": 9,
+          "THRONE": 5,
+          "PRINCESS": 16,
+          "GRUP GV": 4,
+          "LOVENALIES": 2,
+          "POLYMATH": 5,
+          "MPEDIA HUB": 1,
+          "88SIAPBANTU": 2,
+          "PASUKANJOKI": 2,
+          "MIE": 1,
+          "INNOS TEAM": 1
+        }
+      },
+      "2026-06-15": {
+        "total": 66,
+        "kw": {
+          "claude": 16,
+          "surat tugas": 3,
+          "excel": 30,
+          "surat sakit": 8,
+          "php": 1,
+          "website": 4,
+          "figma": 3,
+          "cv": 1
+        },
+        "grp": {
+          "PRINCESS": 8,
+          "THRONE": 6,
+          "GRUP GV": 8,
+          "TIM FX": 11,
+          "SOLUSI MUMET": 3,
+          "BB TEAM": 3,
+          "INNOS TEAM": 7,
+          "PAPER": 6,
+          "POLYMATH": 4,
+          "LOVENALIES": 6,
+          "KUNCI KODE": 1,
+          "DAISY": 2,
+          "LANBER": 1
+        }
+      },
+      "2026-06-16": {
+        "total": 46,
+        "kw": {
+          "cv": 5,
+          "excel": 24,
+          "claude": 12,
+          "figma": 1,
+          "surat keterangan": 1,
+          "coding": 1,
+          "spreadsheet": 2
+        },
+        "grp": {
+          "PAPER": 4,
+          "INNOS TEAM": 1,
+          "PRINCESS": 15,
+          "SOLUSI MUMET": 8,
+          "LOVENALIES": 3,
+          "TIM FX": 4,
+          "BB TEAM": 1,
+          "THRONE": 3,
+          "GRUP GV": 6,
+          "DAISY": 1
+        }
+      },
+      "2026-06-17": {
+        "total": 60,
+        "kw": {
+          "surat tugas": 2,
+          "html": 1,
+          "cv": 4,
+          "excel": 20,
+          "claude": 19,
+          "odoo": 4,
+          "surat sakit": 3,
+          "wordpress": 3,
+          "gemini": 1,
+          "website": 1,
+          "quillbot": 1,
+          "surat sehat": 1
+        },
+        "grp": {
+          "INNOS TEAM": 11,
+          "PRINCESS": 5,
+          "GRUP GV": 6,
+          "THRONE": 6,
+          "TIM FX": 8,
+          "SOLUSI MUMET": 7,
+          "POLYMATH": 3,
+          "PAPER": 12,
+          "LOVENALIES": 1,
+          "LANBER": 1
+        }
+      },
+      "2026-06-18": {
+        "total": 60,
+        "kw": {
+          "claude": 7,
+          "gemini": 3,
+          "excel": 10,
+          "surat sakit": 8,
+          "cv": 6,
+          "quillbot": 5,
+          "spreadsheet": 3,
+          "surat keterangan": 5,
+          "coding": 1,
+          "html": 3,
+          "figma": 2,
+          "surat tugas": 1,
+          "website": 1,
+          "surat sehat": 5
+        },
+        "grp": {
+          "POLYMATH": 2,
+          "PRINCESS": 8,
+          "BB TEAM": 1,
+          "PAPER": 14,
+          "TIM FX": 10,
+          "GRUP GV": 5,
+          "SOLUSI MUMET": 4,
+          "INNOS TEAM": 6,
+          "LOVENALIES": 4,
+          "LANBER": 1,
+          "88SIAPBANTU": 1,
+          "MIE": 2,
+          "THRONE": 2
+        }
+      },
+      "2026-06-19": {
+        "total": 61,
+        "kw": {
+          "claude": 5,
+          "website": 7,
+          "surat sakit": 6,
+          "surat tugas": 3,
+          "quillbot": 7,
+          "excel": 21,
+          "cv": 9,
+          "surat sehat": 2,
+          "surat keterangan": 1
+        },
+        "grp": {
+          "PAPER": 14,
+          "LANBER": 3,
+          "GRUP GV": 4,
+          "SOLUSI MUMET": 3,
+          "INNOS TEAM": 4,
+          "PRINCESS": 16,
+          "MPEDIA HUB": 1,
+          "LOVENALIES": 2,
+          "BB TEAM": 1,
+          "TIM FX": 7,
+          "THRONE": 5,
+          "POLYMATH": 1
+        }
+      },
+      "2026-06-20": {
+        "total": 39,
+        "kw": {
+          "quillbot": 16,
+          "cv": 3,
+          "gemini": 2,
+          "excel": 3,
+          "claude": 6,
+          "php": 1,
+          "html": 3,
+          "surat keterangan": 1,
+          "surat sakit": 3,
+          "coding": 1
+        },
+        "grp": {
+          "PAPER": 9,
+          "INNOS TEAM": 3,
+          "POLYMATH": 1,
+          "SOLUSI MUMET": 1,
+          "BB TEAM": 3,
+          "GRUP GV": 2,
+          "PRINCESS": 3,
+          "TIM FX": 6,
+          "LOVENALIES": 2,
+          "THRONE": 4,
+          "LANBER": 2,
+          "MPEDIA HUB": 2,
+          "KUNCI KODE": 1
+        }
+      },
+      "2026-06-21": {
+        "total": 59,
+        "kw": {
+          "quillbot": 7,
+          "surat tugas": 2,
+          "surat sakit": 8,
+          "surat sehat": 3,
+          "cv": 6,
+          "website": 1,
+          "excel": 4,
+          "figma": 13,
+          "php": 3,
+          "claude": 5,
+          "surat keterangan": 1,
+          "spreadsheet": 3,
+          "coding": 3
+        },
+        "grp": {
+          "LANBER": 4,
+          "PAPER": 5,
+          "SOLUSI MUMET": 6,
+          "PRINCESS": 7,
+          "THRONE": 8,
+          "TIM FX": 6,
+          "POLYMATH": 3,
+          "GRUP GV": 4,
+          "LOVENALIES": 3,
+          "BB TEAM": 4,
+          "MIE": 2,
+          "MPEDIA HUB": 1,
+          "KUNCI KODE": 3,
+          "INNOS TEAM": 2,
+          "DAISY": 1
+        }
+      },
+      "2026-06-22": {
+        "total": 75,
+        "kw": {
+          "website": 7,
+          "quillbot": 28,
+          "figma": 10,
+          "excel": 14,
+          "diagram": 8,
+          "claude": 3,
+          "coding": 1,
+          "codeigniter": 1,
+          "surat lamaran": 1,
+          "gemini": 1,
+          "cv": 1
+        },
+        "grp": {
+          "THRONE": 7,
+          "GRUP GV": 4,
+          "PRINCESS": 14,
+          "TIM FX": 1,
+          "PAPER": 13,
+          "SOLUSI MUMET": 4,
+          "INNOS TEAM": 5,
+          "BB TEAM": 5,
+          "POLYMATH": 9,
+          "LANBER": 9,
+          "MIE": 2,
+          "DAISY": 1,
+          "SOLOENSIART": 1
+        }
+      },
+      "2026-06-23": {
+        "total": 24,
+        "kw": {
+          "website": 1,
+          "cv": 1,
+          "claude": 5,
+          "excel": 6,
+          "quillbot": 11
+        },
+        "grp": {
+          "PRINCESS": 2,
+          "GRUP GV": 6,
+          "THRONE": 3,
+          "TIM FX": 2,
+          "POLYMATH": 3,
+          "BB TEAM": 2,
+          "LANBER": 1,
+          "SOLUSI MUMET": 1,
+          "PAPER": 3,
+          "INNOS TEAM": 1
+        }
+      },
+      "2026-06-25": {
+        "total": 13,
+        "kw": {
+          "surat sehat": 2,
+          "claude": 4,
+          "coding": 1,
+          "quillbot": 5,
+          "diagram": 1
+        },
+        "grp": {
+          "TIM FX": 3,
+          "INNOS TEAM": 3,
+          "LANBER": 1,
+          "PAPER": 3,
+          "POLYMATH": 1,
+          "SOLOENSIART": 1,
+          "BB TEAM": 1
+        }
+      },
+      "2026-06-26": {
+        "total": 51,
+        "kw": {
+          "cv": 6,
+          "excel": 13,
+          "surat sakit": 1,
+          "diagram": 2,
+          "surat keterangan": 2,
+          "spreadsheet": 1,
+          "surat lamaran": 4,
+          "claude": 3,
+          "quillbot": 11,
+          "coding": 2,
+          "surat tugas": 1,
+          "website": 4,
+          "portfolio": 1
+        },
+        "grp": {
+          "THRONE": 4,
+          "TIM FX": 5,
+          "GRUP GV": 6,
+          "DAISY": 2,
+          "POLYMATH": 3,
+          "LANBER": 3,
+          "PAPER": 9,
+          "SOLUSI MUMET": 6,
+          "PRINCESS": 7,
+          "MIE": 2,
+          "SOLOENSIART": 1,
+          "BB TEAM": 1,
+          "INNOS TEAM": 2
+        }
+      },
+      "2026-06-27": {
+        "total": 24,
+        "kw": {
+          "figma": 1,
+          "excel": 11,
+          "cv": 1,
+          "diagram": 1,
+          "website": 2,
+          "coding": 1,
+          "quillbot": 7
+        },
+        "grp": {
+          "PAPER": 2,
+          "POLYMATH": 1,
+          "KUNCI KODE": 1,
+          "LOVENALIES": 1,
+          "SOLUSI MUMET": 3,
+          "PRINCESS": 3,
+          "THRONE": 3,
+          "GRUP GV": 4,
+          "MIE": 2,
+          "INNOS TEAM": 1,
+          "BB TEAM": 1,
+          "SOLOENSIART": 1,
+          "LANBER": 1
+        }
+      },
+      "2026-06-28": {
+        "total": 42,
+        "kw": {
+          "excel": 7,
+          "surat sakit": 6,
+          "coding": 4,
+          "cv": 2,
+          "php": 1,
+          "surat tugas": 1,
+          "quillbot": 10,
+          "diagram": 6,
+          "claude": 3,
+          "website": 2
+        },
+        "grp": {
+          "THRONE": 8,
+          "TIM FX": 7,
+          "PAPER": 5,
+          "GRUP GV": 3,
+          "SOLUSI MUMET": 2,
+          "DAISY": 2,
+          "PRINCESS": 5,
+          "LOVENALIES": 3,
+          "MIE": 2,
+          "BB TEAM": 1,
+          "SOLOENSIART": 1,
+          "LANBER": 1,
+          "INNOS TEAM": 2
+        }
+      },
+      "2026-06-29": {
+        "total": 3,
+        "kw": {
+          "cv": 2,
+          "surat sakit": 1
+        },
+        "grp": {
+          "PRINCESS": 1,
+          "TIM FX": 1,
+          "MIE": 1
+        }
+      }
     }
   },
   "_lastGroupList": [
