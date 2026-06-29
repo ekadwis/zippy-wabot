@@ -2,3 +2,4 @@ node_modules
 .env
 auth
 auth_info_baileys
+session_baru

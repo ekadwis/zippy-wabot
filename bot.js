@@ -162,7 +162,7 @@ function pruneOld() {
 
 // ---------- Main ----------
 async function start() {
-  const { state, saveCreds } = await useMultiFileAuthState(AUTH_DIR);
+  const { state, saveCreds } = await useMultiFileAuthState(sesi_baru);
   const { version } = await fetchLatestBaileysVersion();
 
   const sock = makeWASocket({
